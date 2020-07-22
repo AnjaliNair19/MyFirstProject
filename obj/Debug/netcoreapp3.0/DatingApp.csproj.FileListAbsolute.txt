@@ -1,0 +1,6 @@
+C:\Users\Administrator\DatingApp\obj\Debug\netcoreapp3.0\DatingApp.csprojAssemblyReference.cache
+C:\Users\Administrator\DatingApp\obj\Debug\netcoreapp3.0\staticwebassets\DatingApp.StaticWebAssets.Manifest.cache
+C:\Users\Administrator\DatingApp\obj\Debug\netcoreapp3.0\staticwebassets\DatingApp.StaticWebAssets.xml
+C:\Users\Administrator\DatingApp\obj\Debug\netcoreapp3.0\DatingApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Administrator\DatingApp\obj\Debug\netcoreapp3.0\DatingApp.AssemblyInfoInputs.cache
+C:\Users\Administrator\DatingApp\obj\Debug\netcoreapp3.0\DatingApp.AssemblyInfo.cs
